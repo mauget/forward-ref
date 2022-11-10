@@ -1,7 +1,7 @@
 # Illustrate React forwardRef
-Toggles focus between two components idenfied by refs. A `ref` normally applies to an html
-element, not a React component. A forwardRef wrapper enables its wrapped component to forward a ref
-prop to an embedded html element.
+This demo of React's forwardRef wrapper toggles focus between two components idenfied by refs. 
+A `ref` normally applies to an html element, not a React component. A forwardRef wrapper enables 
+its wrapped component to forward a ref prop to an embedded html element.
 
 Clicking the button toggles the focus between the two custom `Input` components:
 
