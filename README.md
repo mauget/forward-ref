@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# Illustrate React forwardRef
+Toggles focus between two components idenfied by refs. A `ref` normally applies to an html
+element, not a React component. A forwardRef wrapper enables its wrapped component to forward a ref
+prop to its embedded html element.
+
+------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available npm Scripts
 
 In the project directory, you can run:
 
